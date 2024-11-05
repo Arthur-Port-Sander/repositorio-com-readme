@@ -1,5 +1,5 @@
 # Projeto com README
-Um projeto de teste com um arquivo README 🚀
+🚀 Um projeto de teste com um arquivo README 🚀
 
 [<img src="./Gif lofi.gif" alt="gif da Lofi Girl">](https://www.youtube.com/watch?v=jfKfPfyJRdk&list=PLqbQac0BqxVcbHlC6ud38HvDEIku8tUm5&index=2)
 
